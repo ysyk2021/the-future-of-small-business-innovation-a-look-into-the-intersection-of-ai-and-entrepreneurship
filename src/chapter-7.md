@@ -1,5 +1,4 @@
-Chapter 7: Evaluating the Impact of AI on Small Business Innovation
-===================================================================
+
 
 As small businesses increasingly turn to AI for innovation and growth, it is important to evaluate the impact of AI on their operations. In this chapter, we will explore how small businesses can evaluate the impact of AI on their innovation efforts.
 

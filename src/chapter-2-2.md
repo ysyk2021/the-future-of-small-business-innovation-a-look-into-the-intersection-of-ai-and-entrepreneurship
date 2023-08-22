@@ -1,5 +1,4 @@
-Different Types of AI Techniques and Platforms for Small Business Innovation and Growth
-=============================================================================================================================================================
+
 
 Artificial Intelligence (AI) is revolutionizing the way small businesses operate. In this chapter, we will explore the different types of AI techniques and platforms that can be used by small businesses for innovation and growth.
 

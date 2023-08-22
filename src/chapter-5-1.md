@@ -1,5 +1,4 @@
-Automating Business Processes and Tasks with AI-Enabled Robotic Process Automation (RPA)
-=================================================================================================================================================================
+
 
 Artificial Intelligence (AI) is transforming the way small businesses operate by automating business processes and tasks through AI-enabled Robotic Process Automation (RPA). In this chapter, we will explore the applications and techniques of AI in automating business processes and tasks.
 

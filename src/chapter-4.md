@@ -1,5 +1,4 @@
-Chapter 4: AI Applications and Techniques for Customer Experience
-=================================================================
+
 
 Artificial Intelligence (AI) is transforming the way small businesses interact with customers through personalized experiences, real-time support, and sentiment analysis. In this chapter, we will explore the applications and techniques of AI in enhancing customer experience.
 
