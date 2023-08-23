@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) is transforming the way small businesses analyze customer feedback and sentiment through AI-enabled social listening and analytics. In this chapter, we will explore the applications and techniques of AI in improving the customer experience by analyzing customer feedback and sentiment.
 
 AI Applications for Customer Experience

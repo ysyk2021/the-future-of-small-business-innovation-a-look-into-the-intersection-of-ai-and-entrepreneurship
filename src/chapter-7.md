@@ -1,5 +1,4 @@
 
-
 As small businesses increasingly turn to AI for innovation and growth, it is important to evaluate the impact of AI on their operations. In this chapter, we will explore how small businesses can evaluate the impact of AI on their innovation efforts.
 
 Identifying Key Performance Metrics and Goals for AI-Enabled Small Business Improvement and Optimization

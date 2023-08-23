@@ -1,5 +1,4 @@
 
-
 The 21st century has witnessed a rapid transformation of small business innovation due to the emergence of new technologies such as Artificial Intelligence (AI). In this chapter, we will explore the changing landscape of small business innovation in the 21st century.
 
 The Emergence of AI

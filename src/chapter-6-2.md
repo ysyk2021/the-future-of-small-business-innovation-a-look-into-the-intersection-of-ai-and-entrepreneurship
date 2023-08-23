@@ -1,5 +1,4 @@
 
-
 Small businesses can face implementation barriers and resistance to change when adopting new technologies such as AI. In this chapter, we will explore how small businesses can use AI-enabled organizational change management and training to overcome these barriers and successfully implement new technologies.
 
 Identifying Implementation Barriers

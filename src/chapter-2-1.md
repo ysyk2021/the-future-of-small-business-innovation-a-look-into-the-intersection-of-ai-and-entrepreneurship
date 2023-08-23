@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) is a rapidly evolving field that has the potential to transform the way small businesses operate. In this chapter, we will explore the basic principles and processes of AI algorithms and machine learning models for business intelligence and automation.
 
 What is Artificial Intelligence?

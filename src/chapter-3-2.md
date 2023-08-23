@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) is transforming the way small businesses develop and manufacture products by improving quality management and assurance through AI-enabled inspection and testing. In this chapter, we will explore the applications and techniques of AI in product development.
 
 AI Applications for Quality Management and Assurance
