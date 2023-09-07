@@ -20,3 +20,7 @@ In the following chapters, we'll dive deeper into the various aspects of AI and 
 The future is already here, and AI is poised to play a significant role in shaping the world of small business. With the help of "The Future of Small Business Innovation", readers can learn how to harness the power of AI to drive their entrepreneurial vision forward and create a brighter future for themselves and their businesses.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
