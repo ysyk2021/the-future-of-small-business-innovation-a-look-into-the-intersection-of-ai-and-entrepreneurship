@@ -1,5 +1,4 @@
-Chapter 10: Different Types of AI Techniques and Platforms for Small Business Innovation and Growth
-===================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various AI techniques and platforms that small businesses can leverage to drive innovation, enhance competitiveness, and foster growth. Understanding these options is crucial for entrepreneurs looking to harness AI's potential in the context of their business operations.
 

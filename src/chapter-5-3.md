@@ -1,5 +1,4 @@
-Chapter 11: Improving Cybersecurity and Data Privacy with AI-Enabled Threat Detection and Prevention
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the pivotal role of AI in enhancing cybersecurity and safeguarding data privacy for small businesses. The ever-evolving threat landscape necessitates innovative approaches to protect sensitive information and maintain trust with customers.
 

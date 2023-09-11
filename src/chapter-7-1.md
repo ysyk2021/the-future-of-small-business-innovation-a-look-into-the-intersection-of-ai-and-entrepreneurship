@@ -1,5 +1,4 @@
-Chapter 5: Measuring the Effectiveness and Benefits of AI-Enabled Small Business Innovation for Business Performance and Growth
-===============================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the dynamic landscape of entrepreneurship, the integration of Artificial Intelligence (AI) has opened new horizons for small businesses. This chapter delves into the essential aspects of measuring the effectiveness and reaping the benefits of AI-enabled innovation for small business performance and sustainable growth.
 

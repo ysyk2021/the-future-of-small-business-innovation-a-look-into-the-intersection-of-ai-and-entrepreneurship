@@ -1,5 +1,4 @@
-Chapter 15: Improving Quality Management and Assurance with AI-Enabled Inspection and Testing
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the pivotal role of AI in enhancing quality management and assurance for small businesses. AI-powered inspection and testing processes are revolutionizing quality control, ensuring products and services meet the highest standards.
 

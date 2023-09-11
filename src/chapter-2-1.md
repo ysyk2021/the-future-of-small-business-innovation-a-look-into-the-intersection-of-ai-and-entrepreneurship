@@ -1,5 +1,4 @@
-Chapter 8: Basic Principles and Processes of AI Algorithms and Machine Learning Models for Business Intelligence and Automation
-===============================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an introductory overview of the fundamental principles and processes of AI algorithms and machine learning models as they relate to business intelligence and automation for small businesses. Understanding the basics of AI and machine learning is crucial for entrepreneurs looking to harness these technologies for growth and efficiency.
 

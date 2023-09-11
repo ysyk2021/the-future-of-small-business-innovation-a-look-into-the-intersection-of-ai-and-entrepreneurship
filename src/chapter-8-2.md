@@ -1,5 +1,4 @@
-Chapter 17: Challenges and Risks of AI Adoption in Small Business Innovation and How to Overcome Them
-=====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various challenges and risks associated with AI adoption in small business innovation. Understanding these hurdles and learning how to overcome them is crucial for entrepreneurs looking to leverage AI effectively.
 
